@@ -1,4 +1,4 @@
-# Predictin Activities of Daily Living (ADL) using accelerometer data
+# Predicting Activities of Daily Living (ADL) Using Accelerometer Data
 
 Exploratory application of classification models for wrist-worn and waist-mounted accelerometer data.
 
